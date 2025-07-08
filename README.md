@@ -1,6 +1,6 @@
-# Chatty Chat Chat
+# Chatty Server
 
-A lightweight multithreaded chat application implemented in Java using sockets. Chatty Chat Chat supports real-time communication between multiple clients through a central server, with basic support for direct messaging, nicknames, and graceful disconnects.
+A lightweight multithreaded chat application implemented in Java using sockets. This chat server supports real-time communication between multiple clients through a central server, with basic support for direct messaging, nicknames, and graceful disconnects.
 
 ## Features
 
